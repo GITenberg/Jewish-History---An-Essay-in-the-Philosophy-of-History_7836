@@ -1,0 +1,34 @@
+_repo: Jewish-History---An-Essay-in-the-Philosophy-of-History_7836
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dubnow, Simon
+    aliases:
+    - Dubnov, Semion Markovich
+    - Дубнов, Семен Маркович
+    - Dubnow, Schimon
+    - Dubnov, Semen Markovich
+    - Dubnow, S. M.
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '6230'
+    url: http://www.gutenberg.org/2009/agents/6230
+    wikipedia: http://en.wikipedia.org/wiki/Simon_Dubnow
+description: ''
+gutenberg_bookshelf:
+- Philosophy
+- Judaism
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Jews -- History'
+- GITenberg
+title: 'Jewish History : An Essay in the Philosophy of History'
+url: http://www.gutenberg.org/ebooks/7836
